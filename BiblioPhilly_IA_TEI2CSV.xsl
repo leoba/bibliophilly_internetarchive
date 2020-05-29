@@ -10,7 +10,7 @@
     <xsl:output omit-xml-declaration="yes"/>
     
     <xsl:template match="/">
-        <xsl:result-document href="spreadsheet.csv">"identifier","file","description","subject[0]","subject[1]","subject[2]","title","creator","date","collection","language","licenseurl","rights","contributor","credits"<xsl:for-each select="collection(iri-to-uri('../internet archive/TEI/?select=*.xml;recurse=yes'))">
+        <xsl:result-document href="spreadsheet.csv">"identifier","file","description","subject[0]","subject[1]","subject[2]","title","creator","date","collection","language","licenseurl","rights","contributor","credits"<xsl:for-each select="collection(iri-to-uri('../bibliophilly_internetarchive/TEI/?select=*.xml;recurse=yes'))">
             <xsl:variable name="institution" select="//tei:institution"/>
             <xsl:variable name="repository" select="//tei:repository"/>
             <xsl:variable name="title" select="//tei:msContents/tei:msItem[1]/tei:title"/>

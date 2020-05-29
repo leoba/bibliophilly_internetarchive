@@ -22,7 +22,7 @@
         <publisher>Free Library of Philadelphia</publisher>
         <availability>
           <licence target="http://creativecommons.org/publicdomain/mark/1.0/">These images and the content of Free Library of Philadelphia, Lewis E 39: Bible are free of known copyright restrictions and in the public domain. See the Creative Commons Public Domain Mark page for usage details, http://creativecommons.org/publicdomain/mark/1.0/.</licence>
-          <licence target="https://creativecommons.org/licenses/by/4.0/legalcode">Metadata is ©2017 Free Library of Philadelphia, Special Collections and licensed under a Creative Commons Attribution License version 4.0 (CC-BY-4.0 https://creativecommons.org/licenses/by/4.0/legalcode. For a description of the terms of use see the Creative Commons Deed https://creativecommons.org/licenses/by/4.0/.</licence>
+          <licence target="https://creativecommons.org/publicdomain/zero/1.0/legalcode">To the extent possible under law, Free Library of Philadelphia, Special Collections has waived all copyright and related or neighboring rights to this metadata about Free Library of Philadelphia Lewis E 39: Bible. This work is published from: United States. For a summary of CC0, see https://creativecommons.org/publicdomain/zero/1.0/. Legal code: https://creativecommons.org/publicdomain/zero/1.0/legalcode.</licence>
         </availability>
       </publicationStmt>
       <notesStmt>
@@ -63,23 +63,23 @@
               </respStmt>
             </msItem>
             <msItem n="1r">
-              <locus target="#surface-lewis-e-39-9">1r</locus>
+              <locus target="#surface-lewis-e-39-=A11+1">1r</locus>
               <title>Scrap manuscript pages with notation (4 and 5-line staves)</title>
             </msItem>
             <msItem n="4r">
-              <locus target="#surface-lewis-e-39-15">4r</locus>
+              <locus target="#surface-lewis-e-39-=A17+1">4r</locus>
               <title>Alphabetical index of incipits</title>
             </msItem>
             <msItem n="10r">
-              <locus target="#surface-lewis-e-39-27">10r</locus>
+              <locus target="#surface-lewis-e-39-=A29+1">10r</locus>
               <title>Vulgate Bible</title>
             </msItem>
             <msItem n="374v">
-              <locus target="#surface-lewis-e-39-756">374v</locus>
+              <locus target="#surface-lewis-e-39-=A758+1">374v</locus>
               <title>Table of incipits</title>
             </msItem>
             <msItem n="376r">
-              <locus target="#surface-lewis-e-39-759">376r</locus>
+              <locus target="#surface-lewis-e-39-=A761+1">376r</locus>
               <title>Interpretation of Hebrew names</title>
             </msItem>
           </msContents>
@@ -110,104 +110,104 @@
             </scriptDesc>
             <decoDesc>
               <decoNote>Sixteen historiated initials; decorated and pen-flourished initials throughout</decoNote>
-              <decoNote n="10r"><locus target="#surface-lewis-e-39-27">10r</locus>Historiated initial F, Saint Jerome</decoNote>
-              <decoNote n="12v"><locus target="#surface-lewis-e-39-32">12v</locus>Historiated initial I, Jesus Christ</decoNote>
-              <decoNote n="27r"><locus target="#surface-lewis-e-39-61">27r</locus>Decorated initial H</decoNote>
-              <decoNote n="39v"><locus target="#surface-lewis-e-39-86">39v</locus>Decorated initial V</decoNote>
-              <decoNote n="48r"><locus target="#surface-lewis-e-39-103">48r</locus>Decorated initial L</decoNote>
-              <decoNote n="61r"><locus target="#surface-lewis-e-39-129">61r</locus>Decorated initial H</decoNote>
-              <decoNote n="72v"><locus target="#surface-lewis-e-39-152">72v</locus>Decorated initial E</decoNote>
-              <decoNote n="81r"><locus target="#surface-lewis-e-39-169">81r</locus>Decorated initial P</decoNote>
-              <decoNote n="90r"><locus target="#surface-lewis-e-39-187">90r</locus>Inhabited initial I, an older man</decoNote>
-              <decoNote n="91v"><locus target="#surface-lewis-e-39-190">91v</locus>Decorated initial F</decoNote>
-              <decoNote n="104r"><locus target="#surface-lewis-e-39-215">104r</locus>Decorated initial F</decoNote>
-              <decoNote n="114v"><locus target="#surface-lewis-e-39-236">114v</locus>Decorated initial E</decoNote>
-              <decoNote n="125v"><locus target="#surface-lewis-e-39-258">125v</locus>Decorated initial P</decoNote>
-              <decoNote n="136r"><locus target="#surface-lewis-e-39-279">136r</locus>Inhabited initial T, Satyr masks</decoNote>
-              <decoNote n="139v"><locus target="#surface-lewis-e-39-286">139v</locus>Decorated initial A</decoNote>
-              <decoNote n="139v"><locus target="#surface-lewis-e-39-286">139v</locus>Decorated initial A</decoNote>
-              <decoNote n="144r"><locus target="#surface-lewis-e-39-295">144r</locus>Decorated initial L</decoNote>
-              <decoNote n="144v"><locus target="#surface-lewis-e-39-296">144v</locus>Inhabited initial I, Bull's head</decoNote>
-              <decoNote n="149r"><locus target="#surface-lewis-e-39-305">149r</locus>Zoomorphic initial I, Lion</decoNote>
-              <decoNote n="149r"><locus target="#surface-lewis-e-39-305">149r</locus>Decorated initial C</decoNote>
-              <decoNote n="149v"><locus target="#surface-lewis-e-39-306">149v</locus>Decorated initial S</decoNote>
-              <decoNote n="149v"><locus target="#surface-lewis-e-39-306">149v</locus>Historiated initial V, Job and the Devil</decoNote>
-              <decoNote n="159r"><locus target="#surface-lewis-e-39-325">159r</locus>Decorated initial P</decoNote>
-              <decoNote n="159v"><locus target="#surface-lewis-e-39-326">159v</locus>Historiated initial B, God and King David with harp</decoNote>
-              <decoNote n="163r"><locus target="#surface-lewis-e-39-333">163r</locus>Decorated initial D</decoNote>
-              <decoNote n="165v"><locus target="#surface-lewis-e-39-338">165v</locus>Decorated initial D</decoNote>
-              <decoNote n="168r"><locus target="#surface-lewis-e-39-343">168r</locus>Decorated initial D</decoNote>
-              <decoNote n="170v"><locus target="#surface-lewis-e-39-348">170v</locus>Decorated initial S</decoNote>
-              <decoNote n="173v"><locus target="#surface-lewis-e-39-354">173v</locus>Decorated initial E</decoNote>
-              <decoNote n="176r"><locus target="#surface-lewis-e-39-359">176r</locus>Decorated initial C</decoNote>
-              <decoNote n="178v"><locus target="#surface-lewis-e-39-364">178v</locus>Historiated initial D, Jesus Christ</decoNote>
-              <decoNote n="179r"><locus target="#surface-lewis-e-39-365">179r</locus>Decorated initial D</decoNote>
-              <decoNote n="184r"><locus target="#surface-lewis-e-39-375">184r</locus>Decorated initial P</decoNote>
-              <decoNote n="190v"><locus target="#surface-lewis-e-39-388">190v</locus>Decorated initial V</decoNote>
-              <decoNote n="192v"><locus target="#surface-lewis-e-39-392">192v</locus>Decorated initial O</decoNote>
-              <decoNote n="193v"><locus target="#surface-lewis-e-39-394">193v</locus>Decorated initial D</decoNote>
-              <decoNote n="198r"><locus target="#surface-lewis-e-39-403">198r</locus>Decorated initial O</decoNote>
-              <decoNote n="209v"><locus target="#surface-lewis-e-39-426">209v</locus>Historiated initial V, Prophet Isaiah</decoNote>
-              <decoNote n="224r"><locus target="#surface-lewis-e-39-455">224r</locus>Historiated initial V, Prophet Jeremiah</decoNote>
-              <decoNote n="240r"><locus target="#surface-lewis-e-39-487">240r</locus>Historiated initial Q, Prophet Jeremiah</decoNote>
-              <decoNote n="240v"><locus target="#surface-lewis-e-39-488">240v</locus>Inhabited initial Q, Face</decoNote>
-              <decoNote n="241r"><locus target="#surface-lewis-e-39-489">241r</locus>Decorated initial Q</decoNote>
-              <decoNote n="241v"><locus target="#surface-lewis-e-39-490">241v</locus>Historiated initial E, Prophet Baruch</decoNote>
-              <decoNote n="243v"><locus target="#surface-lewis-e-39-494">243v</locus>Historiated initial E, Prophet Ezekiel and his vision</decoNote>
-              <decoNote n="258v"><locus target="#surface-lewis-e-39-524">258v</locus>Historiated initial A, Prophet Daniel</decoNote>
-              <decoNote n="265r"><locus target="#surface-lewis-e-39-537">265r</locus>Decorated initial V</decoNote>
-              <decoNote n="267v"><locus target="#surface-lewis-e-39-542">267v</locus>Decorated initial V</decoNote>
-              <decoNote n="268v"><locus target="#surface-lewis-e-39-544">268v</locus>Decorated initial V</decoNote>
-              <decoNote n="270r"><locus target="#surface-lewis-e-39-547">270r</locus>Decorated initial V</decoNote>
-              <decoNote n="270v"><locus target="#surface-lewis-e-39-548">270v</locus>Decorated initial E</decoNote>
-              <decoNote n="271r"><locus target="#surface-lewis-e-39-549">271r</locus>Decorated initial V</decoNote>
-              <decoNote n="272v"><locus target="#surface-lewis-e-39-552">272v</locus>Decorated initial O</decoNote>
-              <decoNote n="273r"><locus target="#surface-lewis-e-39-553">273r</locus>Historiated initial O, Prophet Habakkuk</decoNote>
-              <decoNote n="274r"><locus target="#surface-lewis-e-39-555">274r</locus>Decorated initial V</decoNote>
-              <decoNote n="274v"><locus target="#surface-lewis-e-39-556">274v</locus>Historiated initial I, King Darius</decoNote>
-              <decoNote n="275v"><locus target="#surface-lewis-e-39-558">275v</locus>Decorated initial I</decoNote>
-              <decoNote n="278r"><locus target="#surface-lewis-e-39-563">278r</locus>Decorated initial O</decoNote>
-              <decoNote n="278v"><locus target="#surface-lewis-e-39-564">278v</locus>Decorated initial E</decoNote>
-              <decoNote n="288r"><locus target="#surface-lewis-e-39-583">288r</locus>Decorated initial F</decoNote>
-              <decoNote n="295r"><locus target="#surface-lewis-e-39-597">295r</locus>Decorated initial B</decoNote>
-              <decoNote n="296r"><locus target="#surface-lewis-e-39-599">296r</locus>Decorated initial M</decoNote>
-              <decoNote n="296r"><locus target="#surface-lewis-e-39-599">296r</locus>Decorated initial L</decoNote>
-              <decoNote n="306r"><locus target="#surface-lewis-e-39-619">306r</locus>Historiated initial I, Mark the Evangelist</decoNote>
-              <decoNote n="312v"><locus target="#surface-lewis-e-39-632">312v</locus>Decorated initial F</decoNote>
-              <decoNote n="323v"><locus target="#surface-lewis-e-39-654">323v</locus>Historiated initial I, Johannine eagle</decoNote>
-              <decoNote n="330v"><locus target="#surface-lewis-e-39-668">330v</locus>Decorated initial P</decoNote>
-              <decoNote n="331r"><locus target="#surface-lewis-e-39-669">331r</locus>Decorated initial P</decoNote>
-              <decoNote n="335r"><locus target="#surface-lewis-e-39-677">335r</locus>Decorated initial P</decoNote>
-              <decoNote n="339r"><locus target="#surface-lewis-e-39-685">339r</locus>Decorated initial P</decoNote>
-              <decoNote n="342r"><locus target="#surface-lewis-e-39-691">342r</locus>Decorated initial P</decoNote>
-              <decoNote n="343r"><locus target="#surface-lewis-e-39-693">343r</locus>Decorated initial P</decoNote>
-              <decoNote n="344v"><locus target="#surface-lewis-e-39-696">344v</locus>Decorated initial P</decoNote>
-              <decoNote n="345v"><locus target="#surface-lewis-e-39-698">345v</locus>Decorated initial P</decoNote>
-              <decoNote n="346v"><locus target="#surface-lewis-e-39-700">346v</locus>Inhabited initial P, Bird</decoNote>
-              <decoNote n="347v"><locus target="#surface-lewis-e-39-702">347v</locus>Decorated initial P</decoNote>
-              <decoNote n="348r"><locus target="#surface-lewis-e-39-703">348r</locus>Inhabited initial P, Griffin</decoNote>
-              <decoNote n="349r"><locus target="#surface-lewis-e-39-705">349r</locus>Decorated initial P</decoNote>
-              <decoNote n="349v"><locus target="#surface-lewis-e-39-706">349v</locus>Decorated initial P</decoNote>
-              <decoNote n="350r"><locus target="#surface-lewis-e-39-707">350r</locus>Decorated initial P</decoNote>
-              <decoNote n="350v"><locus target="#surface-lewis-e-39-708">350v</locus>Decorated initial M</decoNote>
-              <decoNote n="353v"><locus target="#surface-lewis-e-39-714">353v</locus>Decorated initial P</decoNote>
-              <decoNote n="364v"><locus target="#surface-lewis-e-39-736">364v</locus>Inhabited initial I, Hybrid creature</decoNote>
-              <decoNote n="365v"><locus target="#surface-lewis-e-39-738">365v</locus>Decorated initial P</decoNote>
-              <decoNote n="366v"><locus target="#surface-lewis-e-39-740">366v</locus>Decorated initial S</decoNote>
-              <decoNote n="367v"><locus target="#surface-lewis-e-39-742">367v</locus>Decorated initial Q</decoNote>
-              <decoNote n="368v"><locus target="#surface-lewis-e-39-744">368v</locus>Decorated initial S</decoNote>
-              <decoNote n="368v"><locus target="#surface-lewis-e-39-744">368v</locus>Decorated initial S</decoNote>
-              <decoNote n="369r"><locus target="#surface-lewis-e-39-745">369r</locus>Decorated initial I</decoNote>
-              <decoNote n="369r"><locus target="#surface-lewis-e-39-745">369r</locus>Decorated initial A</decoNote>
-              <decoNote n="376r"><locus target="#surface-lewis-e-39-759">376r</locus>Inhabited initial A, Saint or prophet?</decoNote>
-              <decoNote n="380r"><locus target="#surface-lewis-e-39-767">380r</locus>Decorated initial B</decoNote>
-              <decoNote n="382r"><locus target="#surface-lewis-e-39-771">382r</locus>Decorated initial C</decoNote>
-              <decoNote n="383v"><locus target="#surface-lewis-e-39-774">383v</locus>Decorated initial D</decoNote>
-              <decoNote n="384r"><locus target="#surface-lewis-e-39-775">384r</locus>Decorated initial E</decoNote>
-              <decoNote n="385r"><locus target="#surface-lewis-e-39-777">385r</locus>Decorated initial F</decoNote>
-              <decoNote n="386r"><locus target="#surface-lewis-e-39-779">386r</locus>Decorated initial G</decoNote>
-              <decoNote n="387r"><locus target="#surface-lewis-e-39-781">387r</locus>Decorated initial H</decoNote>
-              <decoNote n="387v"><locus target="#surface-lewis-e-39-782">387v</locus>Decorated initial I</decoNote>
+              <decoNote n="10r"><locus target="#surface-lewis-e-39-=A29+1">10r</locus>Historiated initial F, Saint Jerome</decoNote>
+              <decoNote n="12v"><locus target="#surface-lewis-e-39-=A34+1">12v</locus>Historiated initial I, Jesus Christ</decoNote>
+              <decoNote n="27r"><locus target="#surface-lewis-e-39-=A63+1">27r</locus>Decorated initial H</decoNote>
+              <decoNote n="39v"><locus target="#surface-lewis-e-39-=A88+1">39v</locus>Decorated initial V</decoNote>
+              <decoNote n="48r"><locus target="#surface-lewis-e-39-=A105+1">48r</locus>Decorated initial L</decoNote>
+              <decoNote n="61r"><locus target="#surface-lewis-e-39-=A131+1">61r</locus>Decorated initial H</decoNote>
+              <decoNote n="72v"><locus target="#surface-lewis-e-39-=A154+1">72v</locus>Decorated initial E</decoNote>
+              <decoNote n="81r"><locus target="#surface-lewis-e-39-=A171+1">81r</locus>Decorated initial P</decoNote>
+              <decoNote n="90r"><locus target="#surface-lewis-e-39-=A189+1">90r</locus>Inhabited initial I, an older man</decoNote>
+              <decoNote n="91v"><locus target="#surface-lewis-e-39-=A192+1">91v</locus>Decorated initial F</decoNote>
+              <decoNote n="104r"><locus target="#surface-lewis-e-39-=A217+1">104r</locus>Decorated initial F</decoNote>
+              <decoNote n="114v"><locus target="#surface-lewis-e-39-=A238+1">114v</locus>Decorated initial E</decoNote>
+              <decoNote n="125v"><locus target="#surface-lewis-e-39-=A260+1">125v</locus>Decorated initial P</decoNote>
+              <decoNote n="136r"><locus target="#surface-lewis-e-39-=A281+1">136r</locus>Inhabited initial T, Satyr masks</decoNote>
+              <decoNote n="139v"><locus target="#surface-lewis-e-39-=A288+1">139v</locus>Decorated initial A</decoNote>
+              <decoNote n="139v"><locus target="#surface-lewis-e-39-=A288+1">139v</locus>Decorated initial A</decoNote>
+              <decoNote n="144r"><locus target="#surface-lewis-e-39-=A297+1">144r</locus>Decorated initial L</decoNote>
+              <decoNote n="144v"><locus target="#surface-lewis-e-39-=A298+1">144v</locus>Inhabited initial I, Bull's head</decoNote>
+              <decoNote n="149r"><locus target="#surface-lewis-e-39-=A307+1">149r</locus>Zoomorphic initial I, Lion</decoNote>
+              <decoNote n="149r"><locus target="#surface-lewis-e-39-=A307+1">149r</locus>Decorated initial C</decoNote>
+              <decoNote n="149v"><locus target="#surface-lewis-e-39-=A308+1">149v</locus>Decorated initial S</decoNote>
+              <decoNote n="149v"><locus target="#surface-lewis-e-39-=A308+1">149v</locus>Historiated initial V, Job and the Devil</decoNote>
+              <decoNote n="159r"><locus target="#surface-lewis-e-39-=A327+1">159r</locus>Decorated initial P</decoNote>
+              <decoNote n="159v"><locus target="#surface-lewis-e-39-=A328+1">159v</locus>Historiated initial B, God and King David with harp</decoNote>
+              <decoNote n="163r"><locus target="#surface-lewis-e-39-=A335+1">163r</locus>Decorated initial D</decoNote>
+              <decoNote n="165v"><locus target="#surface-lewis-e-39-=A340+1">165v</locus>Decorated initial D</decoNote>
+              <decoNote n="168r"><locus target="#surface-lewis-e-39-=A345+1">168r</locus>Decorated initial D</decoNote>
+              <decoNote n="170v"><locus target="#surface-lewis-e-39-=A350+1">170v</locus>Decorated initial S</decoNote>
+              <decoNote n="173v"><locus target="#surface-lewis-e-39-=A356+1">173v</locus>Decorated initial E</decoNote>
+              <decoNote n="176r"><locus target="#surface-lewis-e-39-=A361+1">176r</locus>Decorated initial C</decoNote>
+              <decoNote n="178v"><locus target="#surface-lewis-e-39-=A366+1">178v</locus>Historiated initial D, Jesus Christ</decoNote>
+              <decoNote n="179r"><locus target="#surface-lewis-e-39-=A367+1">179r</locus>Decorated initial D</decoNote>
+              <decoNote n="184r"><locus target="#surface-lewis-e-39-=A377+1">184r</locus>Decorated initial P</decoNote>
+              <decoNote n="190v"><locus target="#surface-lewis-e-39-=A390+1">190v</locus>Decorated initial V</decoNote>
+              <decoNote n="192v"><locus target="#surface-lewis-e-39-=A394+1">192v</locus>Decorated initial O</decoNote>
+              <decoNote n="193v"><locus target="#surface-lewis-e-39-=A396+1">193v</locus>Decorated initial D</decoNote>
+              <decoNote n="198r"><locus target="#surface-lewis-e-39-=A405+1">198r</locus>Decorated initial O</decoNote>
+              <decoNote n="209v"><locus target="#surface-lewis-e-39-=A428+1">209v</locus>Historiated initial V, Prophet Isaiah</decoNote>
+              <decoNote n="224r"><locus target="#surface-lewis-e-39-=A457+1">224r</locus>Historiated initial V, Prophet Jeremiah</decoNote>
+              <decoNote n="240r"><locus target="#surface-lewis-e-39-=A489+1">240r</locus>Historiated initial Q, Prophet Jeremiah</decoNote>
+              <decoNote n="240v"><locus target="#surface-lewis-e-39-=A490+1">240v</locus>Inhabited initial Q, Face</decoNote>
+              <decoNote n="241r"><locus target="#surface-lewis-e-39-=A491+1">241r</locus>Decorated initial Q</decoNote>
+              <decoNote n="241v"><locus target="#surface-lewis-e-39-=A492+1">241v</locus>Historiated initial E, Prophet Baruch</decoNote>
+              <decoNote n="243v"><locus target="#surface-lewis-e-39-=A496+1">243v</locus>Historiated initial E, Prophet Ezekiel and his vision</decoNote>
+              <decoNote n="258v"><locus target="#surface-lewis-e-39-=A526+1">258v</locus>Historiated initial A, Prophet Daniel</decoNote>
+              <decoNote n="265r"><locus target="#surface-lewis-e-39-=A539+1">265r</locus>Decorated initial V</decoNote>
+              <decoNote n="267v"><locus target="#surface-lewis-e-39-=A544+1">267v</locus>Decorated initial V</decoNote>
+              <decoNote n="268v"><locus target="#surface-lewis-e-39-=A546+1">268v</locus>Decorated initial V</decoNote>
+              <decoNote n="270r"><locus target="#surface-lewis-e-39-=A549+1">270r</locus>Decorated initial V</decoNote>
+              <decoNote n="270v"><locus target="#surface-lewis-e-39-=A550+1">270v</locus>Decorated initial E</decoNote>
+              <decoNote n="271r"><locus target="#surface-lewis-e-39-=A551+1">271r</locus>Decorated initial V</decoNote>
+              <decoNote n="272v"><locus target="#surface-lewis-e-39-=A554+1">272v</locus>Decorated initial O</decoNote>
+              <decoNote n="273r"><locus target="#surface-lewis-e-39-=A555+1">273r</locus>Historiated initial O, Prophet Habakkuk</decoNote>
+              <decoNote n="274r"><locus target="#surface-lewis-e-39-=A557+1">274r</locus>Decorated initial V</decoNote>
+              <decoNote n="274v"><locus target="#surface-lewis-e-39-=A558+1">274v</locus>Historiated initial I, King Darius</decoNote>
+              <decoNote n="275v"><locus target="#surface-lewis-e-39-=A560+1">275v</locus>Decorated initial I</decoNote>
+              <decoNote n="278r"><locus target="#surface-lewis-e-39-=A565+1">278r</locus>Decorated initial O</decoNote>
+              <decoNote n="278v"><locus target="#surface-lewis-e-39-=A566+1">278v</locus>Decorated initial E</decoNote>
+              <decoNote n="288r"><locus target="#surface-lewis-e-39-=A585+1">288r</locus>Decorated initial F</decoNote>
+              <decoNote n="295r"><locus target="#surface-lewis-e-39-=A599+1">295r</locus>Decorated initial B</decoNote>
+              <decoNote n="296r"><locus target="#surface-lewis-e-39-=A601+1">296r</locus>Decorated initial M</decoNote>
+              <decoNote n="296r"><locus target="#surface-lewis-e-39-=A601+1">296r</locus>Decorated initial L</decoNote>
+              <decoNote n="306r"><locus target="#surface-lewis-e-39-=A621+1">306r</locus>Historiated initial I, Mark the Evangelist</decoNote>
+              <decoNote n="312v"><locus target="#surface-lewis-e-39-=A634+1">312v</locus>Decorated initial F</decoNote>
+              <decoNote n="323v"><locus target="#surface-lewis-e-39-=A656+1">323v</locus>Historiated initial I, Johannine eagle</decoNote>
+              <decoNote n="330v"><locus target="#surface-lewis-e-39-=A670+1">330v</locus>Decorated initial P</decoNote>
+              <decoNote n="331r"><locus target="#surface-lewis-e-39-=A671+1">331r</locus>Decorated initial P</decoNote>
+              <decoNote n="335r"><locus target="#surface-lewis-e-39-=A679+1">335r</locus>Decorated initial P</decoNote>
+              <decoNote n="339r"><locus target="#surface-lewis-e-39-=A687+1">339r</locus>Decorated initial P</decoNote>
+              <decoNote n="342r"><locus target="#surface-lewis-e-39-=A693+1">342r</locus>Decorated initial P</decoNote>
+              <decoNote n="343r"><locus target="#surface-lewis-e-39-=A695+1">343r</locus>Decorated initial P</decoNote>
+              <decoNote n="344v"><locus target="#surface-lewis-e-39-=A698+1">344v</locus>Decorated initial P</decoNote>
+              <decoNote n="345v"><locus target="#surface-lewis-e-39-=A700+1">345v</locus>Decorated initial P</decoNote>
+              <decoNote n="346v"><locus target="#surface-lewis-e-39-=A702+1">346v</locus>Inhabited initial P, Bird</decoNote>
+              <decoNote n="347v"><locus target="#surface-lewis-e-39-=A704+1">347v</locus>Decorated initial P</decoNote>
+              <decoNote n="348r"><locus target="#surface-lewis-e-39-=A705+1">348r</locus>Inhabited initial P, Griffin</decoNote>
+              <decoNote n="349r"><locus target="#surface-lewis-e-39-=A707+1">349r</locus>Decorated initial P</decoNote>
+              <decoNote n="349v"><locus target="#surface-lewis-e-39-=A708+1">349v</locus>Decorated initial P</decoNote>
+              <decoNote n="350r"><locus target="#surface-lewis-e-39-=A709+1">350r</locus>Decorated initial P</decoNote>
+              <decoNote n="350v"><locus target="#surface-lewis-e-39-=A710+1">350v</locus>Decorated initial M</decoNote>
+              <decoNote n="353v"><locus target="#surface-lewis-e-39-=A716+1">353v</locus>Decorated initial P</decoNote>
+              <decoNote n="364v"><locus target="#surface-lewis-e-39-=A738+1">364v</locus>Inhabited initial I, Hybrid creature</decoNote>
+              <decoNote n="365v"><locus target="#surface-lewis-e-39-=A740+1">365v</locus>Decorated initial P</decoNote>
+              <decoNote n="366v"><locus target="#surface-lewis-e-39-=A742+1">366v</locus>Decorated initial S</decoNote>
+              <decoNote n="367v"><locus target="#surface-lewis-e-39-=A744+1">367v</locus>Decorated initial Q</decoNote>
+              <decoNote n="368v"><locus target="#surface-lewis-e-39-=A746+1">368v</locus>Decorated initial S</decoNote>
+              <decoNote n="368v"><locus target="#surface-lewis-e-39-=A746+1">368v</locus>Decorated initial S</decoNote>
+              <decoNote n="369r"><locus target="#surface-lewis-e-39-=A747+1">369r</locus>Decorated initial I</decoNote>
+              <decoNote n="369r"><locus target="#surface-lewis-e-39-=A747+1">369r</locus>Decorated initial A</decoNote>
+              <decoNote n="376r"><locus target="#surface-lewis-e-39-=A761+1">376r</locus>Inhabited initial A, Saint or prophet?</decoNote>
+              <decoNote n="380r"><locus target="#surface-lewis-e-39-=A769+1">380r</locus>Decorated initial B</decoNote>
+              <decoNote n="382r"><locus target="#surface-lewis-e-39-=A773+1">382r</locus>Decorated initial C</decoNote>
+              <decoNote n="383v"><locus target="#surface-lewis-e-39-=A776+1">383v</locus>Decorated initial D</decoNote>
+              <decoNote n="384r"><locus target="#surface-lewis-e-39-=A777+1">384r</locus>Decorated initial E</decoNote>
+              <decoNote n="385r"><locus target="#surface-lewis-e-39-=A779+1">385r</locus>Decorated initial F</decoNote>
+              <decoNote n="386r"><locus target="#surface-lewis-e-39-=A781+1">386r</locus>Decorated initial G</decoNote>
+              <decoNote n="387r"><locus target="#surface-lewis-e-39-=A783+1">387r</locus>Decorated initial H</decoNote>
+              <decoNote n="387v"><locus target="#surface-lewis-e-39-=A784+1">387v</locus>Decorated initial I</decoNote>
             </decoDesc>
             <bindingDesc>
               <binding>
@@ -256,25 +256,25 @@
               <catDesc>Chronicle</catDesc>
             </category>
             <category xml:id="keyword_1.10">
-              <catDesc>Commentary</catDesc>
+              <catDesc>Collection of Sermons</catDesc>
             </category>
             <category xml:id="keyword_1.11">
-              <catDesc>Document</catDesc>
+              <catDesc>Commentary</catDesc>
             </category>
             <category xml:id="keyword_1.12">
-              <catDesc>Dogale</catDesc>
+              <catDesc>Document</catDesc>
             </category>
             <category xml:id="keyword_1.13">
-              <catDesc>Friendship book</catDesc>
+              <catDesc>Dogale</catDesc>
             </category>
             <category xml:id="keyword_1.14">
-              <catDesc>Genealogy</catDesc>
+              <catDesc>Friendship book</catDesc>
             </category>
             <category xml:id="keyword_1.15">
-              <catDesc>Glossary</catDesc>
+              <catDesc>Genealogy</catDesc>
             </category>
             <category xml:id="keyword_1.16">
-              <catDesc>Gospel Book</catDesc>
+              <catDesc>Glossary</catDesc>
             </category>
             <category xml:id="keyword_1.17">
               <catDesc>Gospel Lectionary</catDesc>
@@ -285,109 +285,121 @@
             <category xml:id="keyword_1.19">
               <catDesc>Gradual</catDesc>
             </category>
-            <category xml:id="keyword_1.20">
+            <category xml:id="keyword_1.21">
               <catDesc>Haggadah</catDesc>
             </category>
-            <category xml:id="keyword_1.21">
+            <category xml:id="keyword_1.22">
               <catDesc>Homilary</catDesc>
             </category>
-            <category xml:id="keyword_1.22">
+            <category xml:id="keyword_1.23">
               <catDesc>Horologion</catDesc>
             </category>
-            <category xml:id="keyword_1.23">
+            <category xml:id="keyword_1.24">
               <catDesc>Hymnal</catDesc>
             </category>
-            <category xml:id="keyword_1.24">
+            <category xml:id="keyword_1.25">
               <catDesc>Koran</catDesc>
             </category>
-            <category xml:id="keyword_1.25">
+            <category xml:id="keyword_1.26">
               <catDesc>Lectionary</catDesc>
             </category>
-            <category xml:id="keyword_1.26">
+            <category xml:id="keyword_1.27">
               <catDesc>Mass book</catDesc>
             </category>
-            <category xml:id="keyword_1.27">
+            <category xml:id="keyword_1.28">
               <catDesc>Miscellany</catDesc>
             </category>
-            <category xml:id="keyword_1.28">
+            <category xml:id="keyword_1.29">
               <catDesc>Missal</catDesc>
             </category>
-            <category xml:id="keyword_1.29">
+            <category xml:id="keyword_1.30">
               <catDesc>Pontifical</catDesc>
             </category>
-            <category xml:id="keyword_1.30">
-              <catDesc>Prayer</catDesc>
-            </category>
             <category xml:id="keyword_1.31">
-              <catDesc>Prayer book</catDesc>
+              <catDesc>Portolan chart</catDesc>
             </category>
             <category xml:id="keyword_1.32">
-              <catDesc>Private devotional text</catDesc>
+              <catDesc>Prayer book</catDesc>
             </category>
             <category xml:id="keyword_1.33">
-              <catDesc>Processional</catDesc>
+              <catDesc>Private devotional text</catDesc>
             </category>
             <category xml:id="keyword_1.34">
-              <catDesc>Protective scroll</catDesc>
+              <catDesc>Processional</catDesc>
             </category>
             <category xml:id="keyword_1.35">
-              <catDesc>Psalter</catDesc>
+              <catDesc>Protective scroll</catDesc>
             </category>
             <category xml:id="keyword_1.36">
-              <catDesc>Psalter-Hours</catDesc>
+              <catDesc>Psalter</catDesc>
             </category>
             <category xml:id="keyword_1.37">
-              <catDesc>Qur`an</catDesc>
+              <catDesc>Psalter-Hours</catDesc>
             </category>
             <category xml:id="keyword_1.38">
-              <catDesc>Recipe book</catDesc>
+              <catDesc>Qur`an</catDesc>
             </category>
             <category xml:id="keyword_1.39">
-              <catDesc>Saint's Life</catDesc>
+              <catDesc>Recipe book</catDesc>
             </category>
             <category xml:id="keyword_1.40">
+              <catDesc>Saint's Life</catDesc>
+            </category>
+            <category xml:id="keyword_1.41">
+              <catDesc>Scribal manual</catDesc>
+            </category>
+            <category xml:id="keyword_1.42">
+              <catDesc>Torah</catDesc>
+            </category>
+            <category xml:id="keyword_1.43">
               <catDesc>Treatise</catDesc>
             </category>
           </category>
           <category xml:id="keyword_2">
             <catDesc>Century</catDesc>
             <category xml:id="keyword_2.2">
-              <catDesc>8th century</catDesc>
+              <catDesc>6th century</catDesc>
             </category>
             <category xml:id="keyword_2.3">
-              <catDesc>9th century</catDesc>
+              <catDesc>7th century</catDesc>
             </category>
             <category xml:id="keyword_2.4">
-              <catDesc>10th century</catDesc>
+              <catDesc>8th century</catDesc>
             </category>
             <category xml:id="keyword_2.5">
-              <catDesc>11th century</catDesc>
+              <catDesc>9th century</catDesc>
             </category>
             <category xml:id="keyword_2.6">
-              <catDesc>12th century</catDesc>
+              <catDesc>10th century</catDesc>
             </category>
             <category xml:id="keyword_2.7">
-              <catDesc>13th century</catDesc>
+              <catDesc>11th century</catDesc>
             </category>
             <category xml:id="keyword_2.8">
-              <catDesc>14th century</catDesc>
+              <catDesc>12th century</catDesc>
             </category>
             <category xml:id="keyword_2.9">
-              <catDesc>15th century</catDesc>
+              <catDesc>13th century</catDesc>
             </category>
             <category xml:id="keyword_2.10">
-              <catDesc>16th century</catDesc>
+              <catDesc>14th century</catDesc>
             </category>
             <category xml:id="keyword_2.11">
-              <catDesc>17th century</catDesc>
+              <catDesc>15th century</catDesc>
             </category>
             <category xml:id="keyword_2.12">
-              <catDesc>18th century</catDesc>
+              <catDesc>16th century</catDesc>
             </category>
             <category xml:id="keyword_2.13">
-              <catDesc>19th century</catDesc>
+              <catDesc>17th century</catDesc>
             </category>
             <category xml:id="keyword_2.14">
+              <catDesc>18th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.15">
+              <catDesc>19th century</catDesc>
+            </category>
+            <category xml:id="keyword_2.16">
               <catDesc>20th century</catDesc>
             </category>
           </category>
@@ -475,32 +487,38 @@
               <catDesc>Persian</catDesc>
             </category>
             <category xml:id="keyword_3.30">
-              <catDesc>Qajar</catDesc>
+              <catDesc>Portuguese</catDesc>
             </category>
             <category xml:id="keyword_3.31">
-              <catDesc>Rajput</catDesc>
+              <catDesc>Qajar</catDesc>
             </category>
             <category xml:id="keyword_3.32">
-              <catDesc>Russian</catDesc>
+              <catDesc>Rajput</catDesc>
             </category>
             <category xml:id="keyword_3.33">
-              <catDesc>Safavid</catDesc>
+              <catDesc>Russian</catDesc>
             </category>
             <category xml:id="keyword_3.34">
-              <catDesc>Sephardi</catDesc>
+              <catDesc>Safavid</catDesc>
             </category>
             <category xml:id="keyword_3.35">
-              <catDesc>Spanish</catDesc>
+              <catDesc>Sephardi</catDesc>
             </category>
             <category xml:id="keyword_3.36">
-              <catDesc>Timurid</catDesc>
+              <catDesc>Spanish</catDesc>
             </category>
             <category xml:id="keyword_3.37">
+              <catDesc>Timurid</catDesc>
+            </category>
+            <category xml:id="keyword_3.38">
               <catDesc>Turkish</catDesc>
+            </category>
+            <category xml:id="keyword_3.39">
+              <catDesc>Yemenite</catDesc>
             </category>
           </category>
           <category xml:id="keyword_4">
-            <catDesc>Desciptive term</catDesc>
+            <catDesc>Descriptive term</catDesc>
             <category xml:id="keyword_4.2">
               <catDesc>Accordion book</catDesc>
             </category>
@@ -526,111 +544,141 @@
               <catDesc>Charter</catDesc>
             </category>
             <category xml:id="keyword_4.10">
-              <catDesc>Charts</catDesc>
-            </category>
-            <category xml:id="keyword_4.11">
               <catDesc>Colophon</catDesc>
             </category>
+            <category xml:id="keyword_4.11">
+              <catDesc>Damage</catDesc>
+            </category>
             <category xml:id="keyword_4.12">
-              <catDesc>Drawing</catDesc>
+              <catDesc>Diagrams</catDesc>
             </category>
             <category xml:id="keyword_4.13">
-              <catDesc>Early Abbasid script</catDesc>
+              <catDesc>Drawing</catDesc>
             </category>
             <category xml:id="keyword_4.14">
-              <catDesc>Gloss</catDesc>
+              <catDesc>Early Abbasid script</catDesc>
             </category>
             <category xml:id="keyword_4.15">
-              <catDesc>Gothic</catDesc>
+              <catDesc>Fragment</catDesc>
             </category>
             <category xml:id="keyword_4.16">
-              <catDesc>Gothic book hand</catDesc>
+              <catDesc>Gloss</catDesc>
             </category>
             <category xml:id="keyword_4.17">
-              <catDesc>Grisaille</catDesc>
+              <catDesc>Gothic</catDesc>
             </category>
             <category xml:id="keyword_4.18">
-              <catDesc>Grotesques</catDesc>
+              <catDesc>Gothic book hand</catDesc>
             </category>
             <category xml:id="keyword_4.19">
-              <catDesc>Headpiece</catDesc>
+              <catDesc>Grisaille</catDesc>
             </category>
             <category xml:id="keyword_4.20">
-              <catDesc>Heraldry</catDesc>
+              <catDesc>Grotesques</catDesc>
             </category>
             <category xml:id="keyword_4.21">
-              <catDesc>Historiated initial</catDesc>
+              <catDesc>Headpiece</catDesc>
             </category>
             <category xml:id="keyword_4.22">
-              <catDesc>Humanistic</catDesc>
+              <catDesc>Heraldry</catDesc>
             </category>
             <category xml:id="keyword_4.23">
-              <catDesc>Illustration</catDesc>
+              <catDesc>Historiated initial</catDesc>
             </category>
             <category xml:id="keyword_4.24">
-              <catDesc>Inhabited initial</catDesc>
+              <catDesc>Humanistic</catDesc>
             </category>
             <category xml:id="keyword_4.25">
-              <catDesc>Kufic</catDesc>
+              <catDesc>Illumination</catDesc>
             </category>
             <category xml:id="keyword_4.26">
-              <catDesc>Manicules</catDesc>
+              <catDesc>Illustration</catDesc>
             </category>
             <category xml:id="keyword_4.27">
-              <catDesc>Medallion</catDesc>
+              <catDesc>Inhabited initial</catDesc>
             </category>
             <category xml:id="keyword_4.28">
-              <catDesc>Micrography</catDesc>
+              <catDesc>Kufic</catDesc>
             </category>
             <category xml:id="keyword_4.29">
-              <catDesc>Miniature</catDesc>
+              <catDesc>Manicules</catDesc>
             </category>
             <category xml:id="keyword_4.30">
-              <catDesc>Musical notation</catDesc>
+              <catDesc>Medallion</catDesc>
             </category>
             <category xml:id="keyword_4.31">
-              <catDesc>New Abbasid style</catDesc>
+              <catDesc>Micrography</catDesc>
             </category>
             <category xml:id="keyword_4.32">
-              <catDesc>Original binding</catDesc>
+              <catDesc>Miniature</catDesc>
             </category>
             <category xml:id="keyword_4.33">
-              <catDesc>Ornament</catDesc>
+              <catDesc>Missing leaves</catDesc>
             </category>
             <category xml:id="keyword_4.34">
-              <catDesc>Painting</catDesc>
+              <catDesc>Musical notation</catDesc>
             </category>
             <category xml:id="keyword_4.35">
-              <catDesc>Puzzle initial</catDesc>
+              <catDesc>New Abbasid style</catDesc>
             </category>
             <category xml:id="keyword_4.36">
-              <catDesc>Ragini</catDesc>
+              <catDesc>Notable binding</catDesc>
             </category>
             <category xml:id="keyword_4.37">
-              <catDesc>Romanesque</catDesc>
+              <catDesc>Original binding</catDesc>
             </category>
             <category xml:id="keyword_4.38">
-              <catDesc>Scrapbook</catDesc>
+              <catDesc>Ornament</catDesc>
             </category>
             <category xml:id="keyword_4.39">
-              <catDesc>Scroll</catDesc>
+              <catDesc>Painting</catDesc>
             </category>
             <category xml:id="keyword_4.40">
-              <catDesc>Scroll-work initial</catDesc>
+              <catDesc>Palimpsest</catDesc>
             </category>
             <category xml:id="keyword_4.41">
-              <catDesc>Textura</catDesc>
+              <catDesc>Paper</catDesc>
             </category>
             <category xml:id="keyword_4.42">
-              <catDesc>Treasure binding</catDesc>
+              <catDesc>Penwork initial</catDesc>
             </category>
             <category xml:id="keyword_4.43">
-              <catDesc>Watermark</catDesc>
+              <catDesc>Puzzle initial</catDesc>
             </category>
             <category xml:id="keyword_4.44">
-              <catDesc>White-vine lettering</catDesc>
+              <catDesc>Ragini</catDesc>
             </category>
             <category xml:id="keyword_4.45">
+              <catDesc>Romanesque</catDesc>
+            </category>
+            <category xml:id="keyword_4.46">
+              <catDesc>Scrapbook</catDesc>
+            </category>
+            <category xml:id="keyword_4.47">
+              <catDesc>Scroll</catDesc>
+            </category>
+            <category xml:id="keyword_4.48">
+              <catDesc>Scroll-work initial</catDesc>
+            </category>
+            <category xml:id="keyword_4.49">
+              <catDesc>Seals</catDesc>
+            </category>
+            <category xml:id="keyword_4.50">
+              <catDesc>Tables</catDesc>
+            </category>
+            <category xml:id="keyword_4.51">
+              <catDesc>Textura</catDesc>
+            </category>
+            <category xml:id="keyword_4.52">
+              <catDesc>Treasure binding</catDesc>
+            </category>
+            <category xml:id="keyword_4.53">
+              <catDesc>Watermark</catDesc>
+            </category>
+            <category xml:id="keyword_4.54">
+              <catDesc>White-vine lettering</catDesc>
+            </category>
+            <category xml:id="keyword_4.55">
               <catDesc>Woodcuts</catDesc>
             </category>
           </category>
@@ -688,166 +736,157 @@
               <catDesc>Iraq</catDesc>
             </category>
             <category xml:id="keyword_5.19">
-              <catDesc>Italy</catDesc>
+              <catDesc>Israel</catDesc>
             </category>
             <category xml:id="keyword_5.20">
-              <catDesc>Maghreb</catDesc>
+              <catDesc>Italy</catDesc>
             </category>
             <category xml:id="keyword_5.21">
-              <catDesc>Morocco</catDesc>
+              <catDesc>Maghreb</catDesc>
             </category>
             <category xml:id="keyword_5.22">
-              <catDesc>Netherlands</catDesc>
+              <catDesc>Morocco</catDesc>
             </category>
             <category xml:id="keyword_5.23">
-              <catDesc>Pakistan</catDesc>
+              <catDesc>Netherlands</catDesc>
             </category>
             <category xml:id="keyword_5.24">
-              <catDesc>Romania</catDesc>
+              <catDesc>Pakistan</catDesc>
             </category>
             <category xml:id="keyword_5.25">
-              <catDesc>Russia</catDesc>
+              <catDesc>Portugal</catDesc>
             </category>
             <category xml:id="keyword_5.26">
-              <catDesc>Spain</catDesc>
+              <catDesc>Romania</catDesc>
             </category>
             <category xml:id="keyword_5.27">
-              <catDesc>Sub-Saharan (West) Africa</catDesc>
+              <catDesc>Russia</catDesc>
             </category>
             <category xml:id="keyword_5.28">
+              <catDesc>Spain</catDesc>
+            </category>
+            <category xml:id="keyword_5.29">
+              <catDesc>Sub-Saharan (West) Africa</catDesc>
+            </category>
+            <category xml:id="keyword_5.30">
               <catDesc>Turkey</catDesc>
+            </category>
+            <category xml:id="keyword_5.31">
+              <catDesc>Yemen</catDesc>
             </category>
           </category>
           <category xml:id="keyword_6">
-            <catDesc>Subject</catDesc>
+            <catDesc>Other</catDesc>
             <category xml:id="keyword_6.2">
-              <catDesc>Astrology</catDesc>
+              <catDesc>Alchemy</catDesc>
             </category>
             <category xml:id="keyword_6.3">
-              <catDesc>Astronomy</catDesc>
+              <catDesc>Allegory</catDesc>
             </category>
             <category xml:id="keyword_6.4">
-              <catDesc>Cartography</catDesc>
+              <catDesc>Astrology</catDesc>
             </category>
             <category xml:id="keyword_6.5">
-              <catDesc>Cosmology</catDesc>
+              <catDesc>Astronomy</catDesc>
             </category>
             <category xml:id="keyword_6.6">
-              <catDesc>Devotion</catDesc>
+              <catDesc>Biblical</catDesc>
             </category>
             <category xml:id="keyword_6.7">
-              <catDesc>Financial records</catDesc>
+              <catDesc>Cartography</catDesc>
             </category>
             <category xml:id="keyword_6.8">
-              <catDesc>Fortune-telling</catDesc>
+              <catDesc>Church Fathers</catDesc>
             </category>
             <category xml:id="keyword_6.9">
-              <catDesc>Friendship</catDesc>
+              <catDesc>Cosmology</catDesc>
             </category>
             <category xml:id="keyword_6.10">
-              <catDesc>Games</catDesc>
+              <catDesc>Devotion</catDesc>
             </category>
             <category xml:id="keyword_6.11">
-              <catDesc>Geography</catDesc>
+              <catDesc>Financial records</catDesc>
             </category>
             <category xml:id="keyword_6.12">
-              <catDesc>Geomancy</catDesc>
+              <catDesc>Fortune-telling</catDesc>
             </category>
             <category xml:id="keyword_6.13">
-              <catDesc>Grammar</catDesc>
+              <catDesc>Friendship</catDesc>
             </category>
             <category xml:id="keyword_6.14">
-              <catDesc>History</catDesc>
+              <catDesc>Games</catDesc>
             </category>
             <category xml:id="keyword_6.15">
-              <catDesc>Kabbalah</catDesc>
+              <catDesc>Geography</catDesc>
             </category>
             <category xml:id="keyword_6.16">
-              <catDesc>Legal</catDesc>
+              <catDesc>Geomancy</catDesc>
             </category>
             <category xml:id="keyword_6.17">
-              <catDesc>Literature -- Poetry</catDesc>
+              <catDesc>Grammar</catDesc>
             </category>
             <category xml:id="keyword_6.18">
-              <catDesc>Literature -- Prose</catDesc>
+              <catDesc>History</catDesc>
             </category>
             <category xml:id="keyword_6.19">
-              <catDesc>Liturgy</catDesc>
+              <catDesc>Kabbalah</catDesc>
             </category>
             <category xml:id="keyword_6.20">
-              <catDesc>Logic</catDesc>
+              <catDesc>Legal</catDesc>
             </category>
             <category xml:id="keyword_6.21">
-              <catDesc>Magic</catDesc>
+              <catDesc>Literature -- Poetry</catDesc>
             </category>
             <category xml:id="keyword_6.22">
-              <catDesc>Mathematics</catDesc>
+              <catDesc>Literature -- Prose</catDesc>
             </category>
             <category xml:id="keyword_6.23">
-              <catDesc>Mineralogy</catDesc>
+              <catDesc>Liturgy</catDesc>
             </category>
             <category xml:id="keyword_6.24">
-              <catDesc>Philosophy</catDesc>
+              <catDesc>Logic</catDesc>
             </category>
             <category xml:id="keyword_6.25">
-              <catDesc>Piyutim</catDesc>
+              <catDesc>Magic</catDesc>
             </category>
             <category xml:id="keyword_6.26">
-              <catDesc>Responsa</catDesc>
+              <catDesc>Maritime</catDesc>
             </category>
             <category xml:id="keyword_6.27">
-              <catDesc>Science</catDesc>
+              <catDesc>Mathematics</catDesc>
             </category>
             <category xml:id="keyword_6.28">
-              <catDesc>Science -- Medicine</catDesc>
+              <catDesc>Mineralogy</catDesc>
             </category>
             <category xml:id="keyword_6.29">
-              <catDesc>Scripture</catDesc>
+              <catDesc>Philosophy</catDesc>
             </category>
             <category xml:id="keyword_6.30">
-              <catDesc>Sufism</catDesc>
+              <catDesc>Piyutim</catDesc>
             </category>
             <category xml:id="keyword_6.31">
+              <catDesc>Responsa</catDesc>
+            </category>
+            <category xml:id="keyword_6.32">
+              <catDesc>Science</catDesc>
+            </category>
+            <category xml:id="keyword_6.33">
+              <catDesc>Science -- Medicine</catDesc>
+            </category>
+            <category xml:id="keyword_6.34">
+              <catDesc>Scripture</catDesc>
+            </category>
+            <category xml:id="keyword_6.35">
+              <catDesc>Sufism</catDesc>
+            </category>
+            <category xml:id="keyword_6.36">
               <catDesc>Theology</catDesc>
             </category>
           </category>
           <category xml:id="keyword_7">
-            <catDesc>Other</catDesc>
-            <category xml:id="keyword_7.2">
-              <catDesc>Collection of Sermons</catDesc>
-            </category>
-            <category xml:id="keyword_7.3">
-              <catDesc>Notable binding</catDesc>
-            </category>
-            <category xml:id="keyword_7.4">
-              <catDesc>Paper</catDesc>
-            </category>
-            <category xml:id="keyword_7.5">
-              <catDesc>Damage</catDesc>
-            </category>
-            <category xml:id="keyword_7.6">
-              <catDesc>Diagrams</catDesc>
-            </category>
-            <category xml:id="keyword_7.7">
-              <catDesc>Tables</catDesc>
-            </category>
-            <category xml:id="keyword_7.8">
-              <catDesc>Illumination</catDesc>
-            </category>
-            <category xml:id="keyword_7.9">
-              <catDesc>Fragment</catDesc>
-            </category>
-            <category xml:id="keyword_7.10">
-              <catDesc>Allegory</catDesc>
-            </category>
-            <category xml:id="keyword_7.11">
-              <catDesc>Biblical</catDesc>
-            </category>
-            <category xml:id="keyword_7.12">
-              <catDesc>Missing leaves</catDesc>
-            </category>
-            <category xml:id="keyword_7.13">
-              <catDesc>Church Fathers</catDesc>
+            <catDesc/>
+            <category xml:id="keyword_7.1">
+              <catDesc> </catDesc>
             </category>
           </category>
         </taxonomy>
